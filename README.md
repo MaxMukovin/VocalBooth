@@ -1,6 +1,27 @@
 # VocalBooth
 Модульное звукоизолирующее помещение для обучения/записи вокалу, игре на музыкальных инструментах, сведения/мастеринга треков с возможностью сборки/разборки/перемещения.
 
+### Задачи
+
+**Doing**
+
+...
+
+**ToDo**
+
+- [Проектирование модулей](https://github.com/MaxMukovin/VocalBooth/issues/1)
+- [Сборка и тестирование модели](https://github.com/MaxMukovin/VocalBooth/issues/2)
+- [Создание мокапа для Landing Page](https://github.com/MaxMukovin/VocalBooth/issues/3)
+
+**Future**
+
+- [Вёрстка и деплой Landing Page](https://github.com/MaxMukovin/VocalBooth/issues/4)
+- [Изготовление первой версии модулей](https://github.com/MaxMukovin/VocalBooth/issues/6)
+- [Тестирование первой версии будки](https://github.com/MaxMukovin/VocalBooth/issues/7)
+- [Продвижение (SMM) VocalBooth](https://github.com/MaxMukovin/VocalBooth/issues/5)
+
+**Done**
+
 ### Модули:
 
 **Основные**
